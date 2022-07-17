@@ -1,0 +1,12 @@
+CPU
+    73.1600 ms
+
+GPU
+    BASIC
+        16.7710 ms
+
+    TILED
+        1.1055 ms
+
+    CIRCULAR
+        2.1381 ms
